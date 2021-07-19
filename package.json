@@ -1,0 +1,7 @@
+{
+  "name": "subtitle",
+  "version": "1.0.0",
+  "dependencies": {
+    "subsrt": "^1.1.1"
+  }
+}
